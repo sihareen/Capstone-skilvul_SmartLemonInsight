@@ -1,2 +1,4 @@
 # Ignore all files in the temp directory
 myenv/
+yolo/
+newModel/cnnEnv
